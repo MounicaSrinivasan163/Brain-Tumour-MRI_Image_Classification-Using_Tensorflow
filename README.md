@@ -13,7 +13,7 @@ This project implements a deep learning pipeline for **brain tumor classificatio
   - Pituitary Tumor  
   - No Tumor  
 - **Source:** Public datasets available from medical imaging repositories.  
-- **Size:** Approximately 3,000-5,000 images (can vary depending on dataset used).  
+- **Size:** Approximately 3,000  
 - **Preprocessing:**  
   - Resizing to 224x224 pixels  
   - Normalization of pixel values  
