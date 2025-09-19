@@ -24,7 +24,7 @@ This project implements a deep learning pipeline for **brain tumor classificatio
 ## Tools Used
 - **Programming Language:** Python 3.x  
 - **Deep Learning Libraries:** TensorFlow, Keras  
-- **Image Processing:** OpenCV, NumPy  
+- **Image Processing:**  NumPy  
 - **Visualization:** Matplotlib  
 - **Web Deployment:** Streamlit  
 - **Others:** Colab / Jupyter Notebook for experimentation  
